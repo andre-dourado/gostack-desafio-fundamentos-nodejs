@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
 <h3 align="center">
-  Desafio 04: Desafio de Fundamentos do Node.js
+  Desafio 05: Desafio de Fundamentos do Node.js
 </h3>
 
 ## 🚀 Sobre o desafio
